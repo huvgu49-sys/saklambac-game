@@ -11,6 +11,6 @@ fullscreen = 1
 android.permissions = WAKE_LOCK
 android.api = 33
 android.min_api = 21
-android.ndk = 25b
+android.ndk = 23b
 android.sdk = 33
 android.accept_sdk_license = True
