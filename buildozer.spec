@@ -10,6 +10,7 @@ orientation = portrait
 fullscreen = 1
 android.permissions = WAKE_LOCK
 android.api = 31
+android.ndk_api = 31
 android.min_api = 21
 android.ndk = 23b
 android.sdk = 33
